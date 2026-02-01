@@ -1,11 +1,15 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: "如何写一篇博客"
+date: 2026-01-05
+permalink: /posts/2026/01/how-to-blog/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - 写作
+  - 博客
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+写作模板（可直接替换内容）：
+
+1. 背景：为什么写这篇文章
+2. 过程：关键步骤或思路
+3. 结果：学到什么、有什么改进
+4. 总结：一句话结论

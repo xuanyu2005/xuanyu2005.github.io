@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+基本信息
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- 姓名：周轩瑜
+- 院校：华南理工大学（SCUT）
+- 专业/方向：待补充
+- 邮箱：待补充
+- 个人主页：/
 
-Work experience
+教育背景
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- 华南理工大学（SCUT），学位/专业待补充，起止年份待补充
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+研究/兴趣方向
+======
+- 待补充（示例：机器学习、数据挖掘、软件工程）
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+项目经历
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 项目名称（时间）
+  - 一句话描述项目目标
+  - 你的角色与贡献
+  - 技术栈：待补充
 
-Publications
+实习/工作经历
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+- 机构/公司名称（时间）
+  - 职责与成果
+
+获奖与荣誉
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+- 待补充
+
+技能
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- 编程语言：待补充
+- 工具与平台：待补充
+- 语言能力：待补充
