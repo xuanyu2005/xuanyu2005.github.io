@@ -13,10 +13,10 @@ title                    : "周轩瑜 | 个人主页"
 title_separator          : "-"
 name                     : &name "周轩瑜"
 description              : &description "周轩瑜的个人主页与在线简历"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://your-username.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://xuanyu2005.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "your-username/your-username.github.io"
+baseurl                  : "/academicpages.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "xuanyu2005/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
